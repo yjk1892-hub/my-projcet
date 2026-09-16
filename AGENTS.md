@@ -1,5 +1,22 @@
 # 과제 프로젝트 규칙
 
+## 작업 위치와 저장소
+
+- 모든 과제 작성과 수정은 `C:\Users\yjk18\OneDrive\Documents\my project`에서 진행한다.
+- 과제 코드를 교수자 저장소 `basic_DL` 안에 만들거나 수정하지 않는다.
+- 이 폴더는 개인 과제 저장소 `https://github.com/yjk1892-hub/my-projcet.git`와 연결한다.
+- 과제 작업 전후에는 현재 폴더가 `my project`인지 확인한다. `basic_DL`에서 과제 파일을 작성하지 않는다.
+- 작업을 마치면 변경사항을 커밋하고 개인 원격 저장소 `origin`에 push한다.
+- 교수자 자료를 갱신할 때는 `basic_DL`에서만 `git pull`을 실행하며, 개인 과제 저장소의 파일을 섞지 않는다.
+
+### 원격 동기화 규칙
+
+1. `my project`에서 작업한다.
+2. 작업이 끝나면 코드를 실행하고 `results/`에 로그를 남긴다.
+3. `git status`로 확인한 뒤 의미 있는 단위로 커밋한다.
+4. `git push origin main`으로 개인 GitHub 저장소와 동기화한다.
+5. 원격 저장소에 과제 파일이 올라갔는지 GitHub에서 확인한다.
+
 ## 폴더 구조
 
 - `code/`: 직접 작성한 코드
