@@ -2,7 +2,7 @@
 
 ## 작업 위치와 저장소
 
-- 모든 과제 작성과 수정은 `C:\Users\yjk18\OneDrive\Documents\my project`에서 진행한다.
+- 모든 과제 작성과 수정은 `C:\Users\yjk18\Documents\my project`에서 진행한다.
 - 과제 코드를 교수자 저장소 `basic_DL` 안에 만들거나 수정하지 않는다.
 - 이 폴더는 개인 과제 저장소 `https://github.com/yjk1892-hub/my-projcet.git`와 연결한다.
 - 과제 작업 전후에는 현재 폴더가 `my project`인지 확인한다. `basic_DL`에서 과제 파일을 작성하지 않는다.
